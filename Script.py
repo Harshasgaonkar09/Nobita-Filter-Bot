@@ -380,7 +380,7 @@ Reply any text with /tr
 
 Helps you to know your ping 🚶🏼‍♂️
 
-     DEPLOY_TXT= """<b>ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ɪssᴜᴇ ɪɴ ᴛʜᴇ 
+DEPLOY_TXT = """<b>ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ɪssᴜᴇ ɪɴ ᴛʜᴇ
 ʀᴇᴘᴏ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ...</b>"""
 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝:
