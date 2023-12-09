@@ -27,7 +27,7 @@ pyshorteners
 countryinfo
 datetime
 pytz
-python-math
+python-math  # Check if this is a correct package name
 Pillow
 speedtest-cli
 python-dotenv
