@@ -379,7 +379,10 @@ Reply any text with /tr
     PINGS_TXT = """<b>𝙿𝙸𝙽𝙶 𝙼𝙾𝙳𝚄𝙻𝙴</b>
 
 Helps you to know your ping 🚶🏼‍♂️
- 
+
+     DEPLOY_TXT= """<b>ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ɪssᴜᴇ ɪɴ ᴛʜᴇ 
+ʀᴇᴘᴏ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ...</b>"""
+
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝:
 
 • /alive - To check you are alive.
