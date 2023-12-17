@@ -50,7 +50,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] [𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...](https://telegram.me/NobiDeveloper/1055)
 * [@Nobita-Filter-Bot](https://telegram.dog/Nobita-Filter-Bot)
-* 𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/BotszList'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+* 𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/theottservice'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
@@ -122,7 +122,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/NobiDeveloper/Nobita-Filter-Bot">
+<p align="center"><a href="https://github.com/Harshasgaonkar09/Nobita-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
